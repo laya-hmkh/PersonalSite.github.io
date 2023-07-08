@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Geologica&family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Ubuntu&display=swap');
+body{
+  margin: 0% 0%;
+}
+.icon{
+  width: 30px;
+  height: 30px;
+  margin-right: 6px;
+}
+
+.icon-text-h1 {
+  font-family: 'Montserrat-thin', sans-serif;
+  margin-bottom: 1.5rem;
+}
+
+.icon-text-p{
+  font-family: 'Montserrat-thin', sans-serif;
+  margin-top: 1.5rem;
+}
+
+.bg-img {
+  margin: 3% 10%;
+}
+
+.my-name-h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 65px;
+  position: absolute;
+  top: 20%;
+  left: 47%;
+  z-index: 1;
+  color: white;
+}
+.my-name-p {
+  position: absolute;
+  font-family: 'Geologica', sans-serif;
+  top: 31%;
+  left: 50%;
+  z-index: 1;
+  color: white;
+}
+
+.mskill-icon{
+  margin-bottom: 10%;
+}
+
+.title-container{
+  position: relative;
+  background-color: #0E2954;
+}
+
+.skill-container{
+  margin: 5% 15%;
+}
+
+.touch-container{
+  background-color: #C5DFF8;
+  padding: 3% 15%;
+}
+
+.footer-p{
+  margin-bottom: 0%;
+}
+.skill-major{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.row-css{
+  padding: 0%;
+  padding-left: 39%;
+  padding-right: 35%;
+
+}
+
+.icon-tel{
+  margin-left:-20px;
+}
